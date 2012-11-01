@@ -3,6 +3,7 @@ layout: page
 title: "libflowbox"
 description: "C++ library of FlowBox"
 group: navigation
+weight: 3
 ---
 {% include JB/setup %}
 

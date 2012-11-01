@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Flowbox Ruby"
-description: "Ruby Library of Flowbox"
+title: "FlowBox Ruby"
+description: "Ruby Library of FlowBox"
 group: navigation
+weight: 2
 ---
 {% include JB/setup %}

@@ -4,15 +4,15 @@
 <div class="container-fluid">
 
     <div class="row-fluid">
-        <div class="span8">
-            {{ content }}
-        </div>
         <div class="span2">
               <ul class="nav nav-list">
                 {% assign pages_list = site.pages %}
                 {% assign group = 'blog_navigation' %}
                 {% include JB/pages_list %}
               </ul>
+        </div>
+        <div class="span10">
+            {{ content }}
         </div>
 
     </div>

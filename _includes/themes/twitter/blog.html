@@ -1,0 +1,19 @@
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+<div class="container-fluid">
+
+    <div class="row-fluid">
+        <div class="span2">
+              <ul class="nav nav-list">
+                {% assign pages_list = site.pages %}
+                {% assign group = 'blog_navigation' %}
+                {% include JB/pages_list %}
+              </ul>
+        </div>
+
+        <div class="span10">
+            {{ content }}
+        </div>
+    </div>
+</div>

@@ -1,0 +1,58 @@
+<h4>Find us on Github</h4>
+<p>
+    <a href="https://github.com/FlowBox" class="btn btn-large btn-primary">Flowbox</a>
+</p>
+
+<h4>Main repositories:</h4>
+<p>
+    <div class="btn-group">
+      <button class="btn btn-inverse">libflowbox</button>
+      <button class="btn btn-inverse dropdown-toggle" data-toggle="dropdown">
+        <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu">
+        <li>
+            <a href="https://github.com/FlowBox/libflowbox">libflowbox</a>
+        </li>
+        <li>
+            <a href="https://github.com/FlowBox/libflowbox/tarball/master">Download stable version</a>
+        </li>
+        <li>
+            <a href="https://github.com/FlowBox/libflowbox/wiki">Wiki</a>
+        </li>
+        <li>
+            <a href="https://github.com/FlowBox/libflowbox/issues">Issues</a>
+        </li>
+        <li class="divider"></li>
+        <li>
+            <a href="https://travis-ci.org/#!/FlowBox/libflowbox">Travis CI Testing</a>
+        </li>
+      </ul>
+    </div>
+</p>
+<p>
+    <div class="btn-group">
+      <button class="btn btn-inverse">flowbox-ruby</button>
+      <button class="btn btn-inverse dropdown-toggle" data-toggle="dropdown">
+        <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu">
+        <li>
+            <a href="https://github.com/FlowBox/flowbox-ruby">flowbox-ruby</a>
+        </li>
+        <li>
+            <a href="https://github.com/FlowBox/flowbox-ruby/tarball/master">Download stable version</a>
+        </li>
+        <li>
+            <a href="https://github.com/FlowBox/flowbox-ruby/wiki">Wiki</a>
+        </li>
+        <li>
+            <a href="https://github.com/FlowBox/flowbox-ruby/issues">Issues</a>
+        </li>
+        <li class="divider"></li>
+        <li>
+            <a href="https://travis-ci.org/#!/FlowBox/flowbox-ruby">Travis CI Testing</a>
+        </li>
+      </ul>
+    </div>
+</p>

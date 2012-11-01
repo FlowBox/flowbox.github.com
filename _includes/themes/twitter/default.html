@@ -40,17 +40,22 @@
     </div>
 
     <div class="container">
-      <div class="content">
-        {{ content }}
+        <div class="content">
+          <div class="row">
+            <div class="span2 bs-docs-sidebar">
+                {% include github_links %}
+            </div>
+            <div class="span10">
+                {{ content }}
+            </div>
+        </div>
       </div>
-
       <footer>
         <p>&copy; {{ site.author.name }} 2012
           with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
       </footer>
-
     </div> <!-- /container -->
 
     {% include JB/analytics %}

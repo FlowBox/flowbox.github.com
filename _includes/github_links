@@ -1,83 +1,83 @@
 <h4>Find us on Github</h4>
 <p>
-    <a href="https://github.com/FlowBox" class="btn btn-large btn-primary">Flowbox</a>
+    <a href="https://github.com/FlowBox" class="btn btn-large btn-primary"><i class="icon-user icon-white"></i> Flowbox</a>
 </p>
 
 <h4>Main repositories:</h4>
 <p>
     <div class="btn-group">
-      <a href="https://github.com/FlowBox/libflowbox" class="btn btn-inverse">libflowbox</a>
+      <a href="https://github.com/FlowBox/libflowbox" class="btn btn-inverse"><i class="icon-book icon-white"></i> libflowbox</a>
       <button class="btn btn-inverse dropdown-toggle" data-toggle="dropdown">
         <span class="caret"></span>
       </button>
       <ul class="dropdown-menu">
         <li>
-            <a href="https://github.com/FlowBox/libflowbox">Repository</a>
+            <a href="https://github.com/FlowBox/libflowbox"><i class="icon-hdd"></i> Repository</a>
         </li>
         <li>
-            <a href="https://github.com/FlowBox/libflowbox/tarball/master">Download stable version</a>
+            <a href="https://github.com/FlowBox/libflowbox/tarball/master"><i class="icon-download"></i> Download stable version</a>
         </li>
         <li>
-            <a href="https://github.com/FlowBox/libflowbox/wiki">Wiki</a>
+            <a href="https://github.com/FlowBox/libflowbox/wiki"><i class="icon-info-sign"></i> Wiki</a>
         </li>
         <li>
-            <a href="https://github.com/FlowBox/libflowbox/issues">Issues</a>
+            <a href="https://github.com/FlowBox/libflowbox/issues"><i class="icon-warning-sign"></i> Issues</a>
         </li>
         <li class="divider"></li>
         <li>
-            <a href="https://travis-ci.org/#!/FlowBox/libflowbox">Travis CI Testing</a>
+            <a href="https://travis-ci.org/#!/FlowBox/libflowbox"><i class="icon-check"></i> Travis CI Testing</a>
         </li>
       </ul>
     </div>
 </p>
 <p>
     <div class="btn-group">
-      <a href="https://github.com/FlowBox/flowbox-ruby" class="btn btn-inverse">flowbox-ruby</a>
+      <a href="https://github.com/FlowBox/flowbox-ruby" class="btn btn-inverse"><i class="icon-book icon-white"></i> flowbox-ruby</a>
       <button class="btn btn-inverse dropdown-toggle" data-toggle="dropdown">
         <span class="caret"></span>
       </button>
       <ul class="dropdown-menu">
         <li>
-            <a href="https://github.com/FlowBox/flowbox-ruby">Repository</a>
+            <a href="https://github.com/FlowBox/flowbox-ruby"><i class="icon-hdd"></i> Repository</a>
         </li>
         <li>
-            <a href="https://github.com/FlowBox/flowbox-ruby/tarball/master">Download stable version</a>
+            <a href="https://github.com/FlowBox/flowbox-ruby/tarball/master"><i class="icon-download"></i> Download stable version</a>
         </li>
         <li>
-            <a href="https://github.com/FlowBox/flowbox-ruby/wiki">Wiki</a>
+            <a href="https://github.com/FlowBox/flowbox-ruby/wiki"><i class="icon-info-sign"></i> Wiki</a>
         </li>
         <li>
-            <a href="https://github.com/FlowBox/flowbox-ruby/issues">Issues</a>
+            <a href="https://github.com/FlowBox/flowbox-ruby/issues"><i class="icon-warning-sign"></i> Issues</a>
         </li>
         <li class="divider"></li>
         <li>
-            <a href="https://travis-ci.org/#!/FlowBox/flowbox-ruby">Travis CI Testing</a>
+            <a href="https://travis-ci.org/#!/FlowBox/flowbox-ruby"><i class="icon-check"></i> Travis CI Testing</a>
         </li>
       </ul>
     </div>
 </p>
 <p>
     <div class="btn-group">
-      <a href="https://github.com/FlowBox/flowbox-rails" class="btn btn-inverse">flowbox-rails</a>
+      <a href="https://github.com/FlowBox/flowbox-rails" class="btn btn-inverse"><i class="icon-book icon-white"></i> flowbox-rails</a>
       <button class="btn btn-inverse dropdown-toggle" data-toggle="dropdown">
         <span class="caret"></span>
       </button>
       <ul class="dropdown-menu">
         <li>
-            <a href="https://github.com/FlowBox/flowbox-rails">Repository</a>
+            <a href="https://github.com/FlowBox/flowbox-rails"><i class="icon-hdd"></i> Repository</a>
         </li>
         <li>
-            <a href="https://github.com/FlowBox/flowbox-rails/tarball/master">Download stable version</a>
+            <a href="https://github.com/FlowBox/flowbox-rails/tarball/master"><i class="icon-download"></i> Download stable version</a>
         </li>
         <li>
-            <a href="https://github.com/FlowBox/flowbox-rails/wiki">Wiki</a>
+            <a href="https://github.com/FlowBox/flowbox-rails/wiki"><i class="icon-info-sign"></i> Wiki</a>
         </li>
         <li>
-            <a href="https://github.com/FlowBox/flowbox-rails/issues">Issues</a>
+            <a href="https://github.com/FlowBox/flowbox-rails/issues"><i class="icon-warning-sign"></i> Issues</a>
         </li>
         <li class="divider"></li>
         <li>
-            <a href="https://travis-ci.org/#!/FlowBox/flowbox-rails">Travis CI Testing</a>
+            <a href="https://travis-ci.org/#!/FlowBox/flowbox-rails"><i class="icon-check"></i> Travis CI Testing</a>
         </li>
       </ul>
     </div>
